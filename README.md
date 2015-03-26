@@ -9,10 +9,11 @@ PokerStars用ヘッズアップディスプレイ(HUD)です。
 
 インストール
 ------
-*   Mac OS X
-    [こちら](https://github.com/zaburo-ch/poker_tool/raw/master/MyPoker-Beta-0.1.dmg)からダウンロードしてdmgファイルを開き  
+*   Mac OS X  
+    [こちら](https://github.com/zaburo-ch/poker_tool/raw/master/MyPoker-Beta-0.2.dmg)からダウンロードしてdmgファイルを開き  
     Applicationsフォルダ等にコピーして下さい。  
-*   Windows
+
+*   Windows  
     準備中  
 
 使用する前に
