@@ -7,6 +7,14 @@ PokerStars用ヘッズアップディスプレイ(HUD)です。
 追加してほしい機能、指標などを募集してます。  
 また動作確認のコメントなど頂けると大変有り難いです。  
 
+インストール
+------
+*   Mac OS X
+    [こちら](https://github.com/zaburo-ch/poker_tool/raw/master/MyPoker-Beta-0.1.dmg)からダウンロードしてdmgファイルを開き  
+    Applicationsフォルダ等にコピーして下さい。  
+*   Windows
+    準備中  
+
 使用する前に
 ------
 PokerStarsのハンド履歴から情報を読み取っているため、  
