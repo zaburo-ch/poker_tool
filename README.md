@@ -63,4 +63,4 @@ VPIP/PFR/PFA/WTSD
 
 リンク
 ------
-* [ZABURO app](http://zaburoapp.blog.fc2.com/) (ブログ)
+* [ZABURO app](https://zaburo-ch.github.io/) (ブログ)

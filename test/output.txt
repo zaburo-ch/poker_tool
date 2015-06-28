@@ -1,0 +1,1657 @@
+
+kCGWindowLayer 0
+kCGWindowMemoryUsage 50428
+kCGWindowSharingState 1
+kCGWindowOwnerPID 373
+kCGWindowNumber 43185
+kCGWindowOwnerName ターミナル
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 707;
+    Width = 16;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 101
+kCGWindowName シェル
+kCGWindowMemoryUsage 468220
+kCGWindowSharingState 1
+kCGWindowOwnerPID 373
+kCGWindowNumber 43184
+kCGWindowOwnerName ターミナル
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 403;
+    Width = 287;
+    X = 133;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 101
+kCGWindowName 編集
+kCGWindowMemoryUsage 390396
+kCGWindowSharingState 1
+kCGWindowOwnerPID 373
+kCGWindowNumber 43183
+kCGWindowOwnerName ターミナル
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 303;
+    Width = 315;
+    X = 193;
+    Y = 22;
+}
+kCGWindowAlpha 0.0589602440596
+
+kCGWindowLayer 101
+kCGWindowName 表示
+kCGWindowMemoryUsage 316668
+kCGWindowSharingState 1
+kCGWindowOwnerPID 373
+kCGWindowNumber 43182
+kCGWindowOwnerName ターミナル
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 327;
+    Width = 231;
+    X = 239;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 101
+kCGWindowName ウインドウ
+kCGWindowMemoryUsage 345340
+kCGWindowSharingState 1
+kCGWindowOwnerPID 373
+kCGWindowNumber 43181
+kCGWindowOwnerName ターミナル
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 296;
+    Width = 283;
+    X = 285;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowName トーナメント 1171240550 ロビー
+kCGWindowMemoryUsage 2216980
+kCGWindowSharingState 1
+kCGWindowOwnerPID 10960
+kCGWindowNumber 42848
+kCGWindowOwnerName PokerStars
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 592;
+    Width = 835;
+    X = 276;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowName FIGHT CLUB JP ロビー
+kCGWindowMemoryUsage 2470292
+kCGWindowSharingState 1
+kCGWindowOwnerPID 10960
+kCGWindowNumber 42337
+kCGWindowOwnerName PokerStars
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 672;
+    Width = 896;
+    X = 235;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowMemoryUsage 38140
+kCGWindowSharingState 1
+kCGWindowOwnerPID 11424
+kCGWindowNumber 41716
+kCGWindowOwnerName Xcode
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 518;
+    Width = 16;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowMemoryUsage 21756
+kCGWindowSharingState 1
+kCGWindowOwnerPID 332
+kCGWindowNumber 41711
+kCGWindowOwnerName ことえり
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 281;
+    Width = 16;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 11518
+kCGWindowNumber 40869
+kCGWindowOwnerName Safari
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 35;
+    X = 10;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 11518
+kCGWindowNumber 40868
+kCGWindowOwnerName Safari
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 11518
+kCGWindowNumber 40863
+kCGWindowOwnerName Safari
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowName main.m
+kCGWindowMemoryUsage 4416340
+kCGWindowSharingState 1
+kCGWindowOwnerPID 11424
+kCGWindowNumber 40733
+kCGWindowOwnerName Xcode
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 742;
+    Width = 1366;
+    X = 0;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 11424
+kCGWindowNumber 40557
+kCGWindowOwnerName Xcode
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 35;
+    X = 10;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 11424
+kCGWindowNumber 40556
+kCGWindowOwnerName Xcode
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 11424
+kCGWindowNumber 40555
+kCGWindowOwnerName Xcode
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowName LINE
+kCGWindowMemoryUsage 1078524
+kCGWindowSharingState 1
+kCGWindowOwnerPID 9641
+kCGWindowNumber 39907
+kCGWindowOwnerName LINE
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 646;
+    Width = 402;
+    X = 240;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483624
+kCGWindowName Desktop Picture - DefaultDesktop.jpg
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 38873
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -20
+kCGWindowName Backstop Menubar
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 38872
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 14;
+    Width = 1366;
+    X = 0;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowName Menubar
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 38871
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 102
+kCGWindowName Focus Proxy
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 10960
+kCGWindowNumber 38786
+kCGWindowOwnerName PokerStars
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 1;
+    Width = 1;
+    X = 100;
+    Y = 100;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 8
+kCGWindowName
+kCGWindowMemoryUsage 222460
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 36708
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 215;
+    Width = 247;
+    X = 1119;
+    Y = 53;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowName PokerStars ロビー
+kCGWindowMemoryUsage 4416340
+kCGWindowSharingState 1
+kCGWindowOwnerPID 10960
+kCGWindowNumber 36422
+kCGWindowOwnerName PokerStars
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 742;
+    Width = 1366;
+    X = 0;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 10960
+kCGWindowNumber 36420
+kCGWindowOwnerName PokerStars
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 35;
+    X = 10;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 10960
+kCGWindowNumber 36419
+kCGWindowOwnerName PokerStars
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 10960
+kCGWindowNumber 36418
+kCGWindowOwnerName PokerStars
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 9641
+kCGWindowNumber 31023
+kCGWindowOwnerName LINE
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 35;
+    X = 10;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 9641
+kCGWindowNumber 31022
+kCGWindowOwnerName LINE
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 9641
+kCGWindowNumber 31021
+kCGWindowOwnerName LINE
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 3
+kCGWindowName LINE_TASKBAR
+kCGWindowMemoryUsage 1276
+kCGWindowSharingState 1
+kCGWindowOwnerPID 9641
+kCGWindowNumber 31020
+kCGWindowOwnerName LINE
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 0;
+    Width = 0;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 25
+kCGWindowName
+kCGWindowMemoryUsage 5372
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 9641
+kCGWindowNumber 31019
+kCGWindowOwnerName LINE
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 24;
+    X = 1030;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483624
+kCGWindowName Desktop Picture - DefaultDesktop.jpg
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 29117
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -20
+kCGWindowName Backstop Menubar
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 29116
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 14;
+    Width = 1366;
+    X = 0;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowName Menubar
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 29115
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 101
+kCGWindowName
+kCGWindowMemoryUsage 17660
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 28924
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 40;
+    Width = 92;
+    X = 1226;
+    Y = 108;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483624
+kCGWindowName Desktop Picture - DefaultDesktop.jpg
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 28603
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -20
+kCGWindowName Backstop Menubar
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 28602
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 14;
+    Width = 1366;
+    X = 0;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowName Menubar
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 28601
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 8
+kCGWindowName
+kCGWindowMemoryUsage 517372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 287
+kCGWindowNumber 28536
+kCGWindowOwnerName SystemUIServer
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 276;
+    Width = 450;
+    X = 458;
+    Y = 164;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 103
+kCGWindowName
+kCGWindowMemoryUsage 21756
+kCGWindowSharingState 1
+kCGWindowOwnerPID 6999
+kCGWindowNumber 28341
+kCGWindowOwnerName Finder
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 19;
+    Width = 228;
+    X = 1109;
+    Y = 120;
+}
+kCGWindowAlpha 0.10000000149
+
+kCGWindowLayer 102
+kCGWindowName Focus Proxy
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 28229
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 1;
+    Width = 1;
+    X = 100;
+    Y = 100;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowName poker_tool — Python — 102×50
+kCGWindowMemoryUsage 2551508
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 373
+kCGWindowNumber 24528
+kCGWindowOwnerName ターミナル
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 730;
+    Width = 724;
+    X = 641;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 8
+kCGWindowName
+kCGWindowMemoryUsage 91388
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 20886
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 108;
+    Width = 205;
+    X = 940;
+    Y = 93;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 102
+kCGWindowName Focus Proxy
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 6999
+kCGWindowNumber 18687
+kCGWindowOwnerName Finder
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 1;
+    Width = 1;
+    X = 100;
+    Y = 100;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 6999
+kCGWindowNumber 13754
+kCGWindowOwnerName Finder
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 35;
+    X = 10;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 6999
+kCGWindowNumber 13753
+kCGWindowOwnerName Finder
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 6999
+kCGWindowNumber 13752
+kCGWindowOwnerName Finder
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483603
+kCGWindowName
+kCGWindowMemoryUsage 1068
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 6999
+kCGWindowNumber 13726
+kCGWindowOwnerName Finder
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 101
+kCGWindowName ブックマークを表示します (⇧⌘B)
+kCGWindowMemoryUsage 17660
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 9780
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 18;
+    Width = 176;
+    X = 1103;
+    Y = 95;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 101
+kCGWindowName
+kCGWindowMemoryUsage 21756
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 7758
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 32;
+    Width = 137;
+    X = 57;
+    Y = 98;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 8
+kCGWindowName
+kCGWindowMemoryUsage 165116
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 7445
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 125;
+    Width = 310;
+    X = 24;
+    Y = 89;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowMemoryUsage 218364
+kCGWindowSharingState 1
+kCGWindowOwnerPID 68
+kCGWindowNumber 6671
+kCGWindowOwnerName loginwindow
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 124;
+    Width = 422;
+    X = 875;
+    Y = 358;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 20
+kCGWindowName
+kCGWindowMemoryUsage 513276
+kCGWindowSharingState 1
+kCGWindowOwnerPID 332
+kCGWindowNumber 6615
+kCGWindowOwnerName ことえり
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 307;
+    Width = 416;
+    X = 778;
+    Y = 281;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 8
+kCGWindowName
+kCGWindowMemoryUsage 521468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 4881
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 289;
+    Width = 435;
+    X = 715;
+    Y = 89;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 332
+kCGWindowNumber 4333
+kCGWindowOwnerName ことえり
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 29;
+    Width = 16;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 8
+kCGWindowName
+kCGWindowMemoryUsage 79100
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 3727
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 54;
+    Width = 344;
+    X = 567;
+    Y = 362;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 101
+kCGWindowName Google で検索します
+kCGWindowMemoryUsage 13564
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 3666
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 18;
+    Width = 113;
+    X = 1010;
+    Y = 107;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 25
+kCGWindowName
+kCGWindowMemoryUsage 5372
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 1418
+kCGWindowNumber 3304
+kCGWindowOwnerName QuickRes
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 32;
+    X = 998;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 8
+kCGWindowName
+kCGWindowMemoryUsage 1664252
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 3028
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 702;
+    Width = 588;
+    X = 748;
+    Y = 62;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 8
+kCGWindowName
+kCGWindowMemoryUsage 414972
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 437
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 174;
+    Width = 588;
+    X = 28;
+    Y = 78;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 101
+kCGWindowName
+kCGWindowMemoryUsage 21756
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 335
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 32;
+    Width = 137;
+    X = 15;
+    Y = 95;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 101
+kCGWindowName 検索
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 282
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 18;
+    Width = 28;
+    X = 375;
+    Y = 186;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 8
+kCGWindowName
+kCGWindowMemoryUsage 320764
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 263
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 236;
+    Width = 332;
+    X = 145;
+    Y = 515;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 8
+kCGWindowName
+kCGWindowMemoryUsage 345340
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 262
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 355;
+    Width = 234;
+    X = 813;
+    Y = 93;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 101
+kCGWindowName [4]チャットワーク - ファイトクラブ（土日はお休み）
+kCGWindowMemoryUsage 25852
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 139
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 18;
+    Width = 275;
+    X = 1091;
+    Y = 72;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowName Constants
+kCGWindowMemoryUsage 5047124
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 135
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 742;
+    Width = 1366;
+    X = 0;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 134
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 35;
+    X = 10;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 133
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 441
+kCGWindowNumber 132
+kCGWindowOwnerName Firefox
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 0
+kCGWindowName tracker_hud.py — workspace
+kCGWindowMemoryUsage 4804628
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 430
+kCGWindowNumber 112
+kCGWindowOwnerName Sublime Text 2
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 742;
+    Width = 1294;
+    X = 1;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 430
+kCGWindowNumber 111
+kCGWindowOwnerName Sublime Text 2
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 35;
+    X = 10;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 430
+kCGWindowNumber 110
+kCGWindowOwnerName Sublime Text 2
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 430
+kCGWindowNumber 109
+kCGWindowOwnerName Sublime Text 2
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 102
+kCGWindowName Focus Proxy
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 373
+kCGWindowNumber 107
+kCGWindowOwnerName ターミナル
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 1;
+    Width = 1;
+    X = 100;
+    Y = 100;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 373
+kCGWindowNumber 103
+kCGWindowOwnerName ターミナル
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 35;
+    X = 10;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 373
+kCGWindowNumber 102
+kCGWindowOwnerName ターミナル
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 373
+kCGWindowNumber 101
+kCGWindowOwnerName ターミナル
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483625
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 74
+kCGWindowOwnerName Dock
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 25
+kCGWindowMemoryUsage 5372
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 287
+kCGWindowNumber 56
+kCGWindowOwnerName SystemUIServer
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 0.0
+
+kCGWindowLayer 25
+kCGWindowName
+kCGWindowMemoryUsage 25852
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 287
+kCGWindowNumber 55
+kCGWindowOwnerName SystemUIServer
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 230;
+    X = 1054;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 20
+kCGWindowName
+kCGWindowMemoryUsage 75004
+kCGWindowSharingState 1
+kCGWindowOwnerPID 332
+kCGWindowNumber 54
+kCGWindowOwnerName ことえり
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 83;
+    Width = 198;
+    X = 362;
+    Y = 578;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 20
+kCGWindowName Dock
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 53
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483624
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 52
+kCGWindowOwnerName Dock
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 10;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483622
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 51
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 1;
+    Width = 10;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 25
+kCGWindowName
+kCGWindowMemoryUsage 9468
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 310
+kCGWindowNumber 50
+kCGWindowOwnerName 通知センター
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 46;
+    X = 1320;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 18
+kCGWindowName Banners and Alerts
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 310
+kCGWindowNumber 49
+kCGWindowOwnerName 通知センター
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 396;
+    X = 970;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 20
+kCGWindowName Widget Launchpad
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 48
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 20
+kCGWindowName
+kCGWindowMemoryUsage 255228
+kCGWindowSharingState 1
+kCGWindowOwnerPID 332
+kCGWindowNumber 47
+kCGWindowOwnerName ことえり
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 301;
+    Width = 196;
+    X = 260;
+    Y = 360;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 20
+kCGWindowName Launchpad
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 46
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483626
+kCGWindowName ウインドウ
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 0
+kCGWindowOwnerPID 310
+kCGWindowNumber 45
+kCGWindowOwnerName 通知センター
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 400;
+    X = 966;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 18
+kCGWindowName
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 310
+kCGWindowNumber 44
+kCGWindowOwnerName 通知センター
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 1;
+    Width = 1;
+    X = 0;
+    Y = 767;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 25
+kCGWindowName
+kCGWindowMemoryUsage 9468
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 287
+kCGWindowNumber 39
+kCGWindowOwnerName SystemUIServer
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 36;
+    X = 1284;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483624
+kCGWindowName Desktop Picture - DefaultDesktop.jpg
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 34
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483624
+kCGWindowName Desktop Picture - DefaultDesktop.jpg
+kCGWindowMemoryUsage 1068
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 33
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483624
+kCGWindowName Desktop Picture - dbgrid.png
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 32
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483624
+kCGWindowName Desktop Picture
+kCGWindowMemoryUsage 1068
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 31
+kCGWindowOwnerName Dock
+kCGWindowStoreType 1
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 18
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 30
+kCGWindowOwnerName Dock
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 36;
+    Width = 36;
+    X = 1320;
+    Y = 722;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 18
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 29
+kCGWindowOwnerName Dock
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 36;
+    Width = 36;
+    X = 55;
+    Y = 723;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 18
+kCGWindowMemoryUsage 9468
+kCGWindowSharingState 1
+kCGWindowOwnerPID 285
+kCGWindowNumber 28
+kCGWindowOwnerName Dock
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 36;
+    Width = 36;
+    X = 10;
+    Y = 723;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -20
+kCGWindowName Backstop Menubar
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 21
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 14;
+    Width = 1366;
+    X = 0;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowName Menubar
+kCGWindowMemoryUsage 124156
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 20
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -20
+kCGWindowName Backstop Menubar
+kCGWindowMemoryUsage 5372
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 19
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 14;
+    Width = 1366;
+    X = 0;
+    Y = 22;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 24
+kCGWindowName Menubar
+kCGWindowMemoryUsage 124156
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 18
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 22;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer 2147483630
+kCGWindowName Cursor
+kCGWindowMemoryUsage 5372
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 6
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 24;
+    Width = 20;
+    X = 931;
+    Y = 310;
+}
+kCGWindowAlpha 1.0
+
+kCGWindowLayer -2147483626
+kCGWindowName Desktop
+kCGWindowMemoryUsage 5372
+kCGWindowIsOnscreen True
+kCGWindowSharingState 1
+kCGWindowOwnerPID 140
+kCGWindowNumber 2
+kCGWindowOwnerName Window Server
+kCGWindowStoreType 2
+kCGWindowBounds {
+    Height = 768;
+    Width = 1366;
+    X = 0;
+    Y = 0;
+}
+kCGWindowAlpha 1.0
